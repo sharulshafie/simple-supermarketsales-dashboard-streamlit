@@ -1,1 +1,1 @@
-# simple-supermarketsales-dashboard-streamlit
+# Simple Supermarket Sales Dashboard using Streamlit
